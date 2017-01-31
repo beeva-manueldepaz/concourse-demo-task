@@ -11,4 +11,4 @@ inputs:
 
 run:
   dir: /
-  path: ./test.sh
+  path: ./task.sh
