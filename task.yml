@@ -7,8 +7,8 @@ image_resource:
 
 inputs:
 - name: app-source
-  path: /
+  path: /concourse-demo-task
 
 run:
-  dir: /
+  dir: /concourse-demo-task/
   path: ./task.sh
